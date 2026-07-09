@@ -1,0 +1,457 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (String Library Class.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  clsAddNewClientScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+  clsAddNewUserScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+  clsBankClient.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+  clsClientListScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+  clsCurrenciesListScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+  clsCurrency.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+  clsCurrencyCalculatorScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+  clsCurrencyExchangeMainScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+  clsDate.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+  clsDeleteClientScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+  clsDeleteUserScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+  clsDepositScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+  clsFindClientScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+  clsFindCurrencyScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+  clsFindUserScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+  clsInputValidate.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+  clsListUsersScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+  clsLoginRegisterScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+  clsLoginScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTotalBalancesScreen.h(61,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         with
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         [
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:             T=double
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         ]
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+  clsMainScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTotalBalancesScreen.h(61,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         with
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         [
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:             T=double
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         ]
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+  Generating Code...
+  Compiling...
+  clsManageUsersScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+  clsPerson.cpp
+  clsScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+  clsString.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+  clsTotalBalancesScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTotalBalancesScreen.h(61,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+  clsTransactionsMenuScreen.cpp
+  clsTransferLogScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+  clsTransferScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         with
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         [
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:             T=double
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         ]
+  (compiling source file 'clsTransferScreen.cpp')
+  
+  clsUpdateClientScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+  clsUpdateCurrencyRate.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+  clsUpdateUserScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+  clsUser.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+  clsUtil.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+  clsWithdrawScreen.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+  GlobalUser.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'GlobalUser.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'GlobalUser.cpp')
+  
+  Bank Project Using OOP.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTotalBalancesScreen.h(61,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         with
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         [
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:             T=double
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsTransferScreen.h(53,58): warning C4244:         ]
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+  GlobalVariables.cpp
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(22,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'GlobalVariables.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'GlobalVariables.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GlobalVariables.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(459,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GlobalVariables.cpp')
+  
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(469,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GlobalVariables.cpp')
+  
+  Generating Code...
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(411,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsUser.h(385,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\LapStore\Downloads\Bank Systemlastone\String Library Class\clsBankClient.h(472,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  String Library Class.vcxproj -> C:\Users\LapStore\Downloads\Bank Systemlastone\x64\Debug\Bank System.exe
